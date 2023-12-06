@@ -9,7 +9,8 @@ O software recebe como entrada um código em C e como saída exibe 3 WCET:
 
 A seguir segue o modelo genérico do fluxo da solução proposta com a respectiva descrição de cada bloco.	
 
-![alt text](https://github.com/gugagop/TCC-PES02/blob/3c8b2da63fadae54ef8a1916d3ad84360b78f946/docs/block_diagram.png)
+![image](https://github.com/gugagop/TCC-PES02/assets/22120173/d1ecbd00-054e-40d3-8cbe-e4fc56a04ef1)
+
 
 
 # Tutorial Instalação
